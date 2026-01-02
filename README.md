@@ -30,5 +30,11 @@ Data Analyst / Dashboard Designer
 
 ---
 
-## 📄 Coffee Book (PDF)
-📥 [View / Download PDF](Data tells stories—and this book brings those stories to life.zip)
+## 📦 Coffee Book Files (ZIP)
+
+This ZIP contains the complete ministry-level data analytics
+coffee book presentation and related assets created under
+NeGD (MeitY).
+
+📥 [Download ZIP](Ministry_Data_Analytics_Coffee_Book.zip)
+
